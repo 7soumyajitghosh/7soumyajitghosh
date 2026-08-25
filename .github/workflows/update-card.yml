@@ -1,0 +1,39 @@
+name: Update gh-ascii Profile Card
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate dark card
+        run: |
+          curl -fL "https://gh-ascii.vercel.app/7soumyajitghosh?theme=dark" -o dark_mode.svg
+
+      - name: Generate light card
+        run: |
+          curl -fL "https://gh-ascii.vercel.app/7soumyajitghosh?theme=light" -o light_mode.svg
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add dark_mode.svg light_mode.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update profile card"
+            git push
+          fi
