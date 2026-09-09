@@ -18,26 +18,44 @@
 
 I'm a passionate developer and builder who enjoys creating applications, experimenting with AI, and turning ideas into working products.
 
-## Tech Stack
+---
 
-<p>
+## ⚡ Tech Stack
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,typescript,python,android,git,github" />
 </p>
 
-## Featured Project
+---
 
-<a href="https://github.com/7soumyajitghosh/Karishma-Ai-chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=7soumyajitghosh&repo=Karishma-Ai-chatbot&theme=github_dark&hide_border=true" />
-</a>
-
-## GitHub
+## 🚀 Featured Project
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7soumyajitghosh&show_icons=true&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/7soumyajitghosh/Karishma-Ai-chatbot">
+    <img
+      src="https://img.shields.io/badge/🤖%20Karishma%20AI-View%20Project-161B22?style=for-the-badge"
+      alt="Karishma AI"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=7soumyajitghosh&theme=github-dark&hide_border=true" />
+  AI-powered virtual assistant with conversational AI,
+  voice interaction and a modern interactive interface.
+</p>
+
+---
+
+## 🐙 GitHub
+
+<p align="center">
+  <a href="https://github.com/7soumyajitghosh">
+    <img src="https://img.shields.io/badge/GitHub-7soumyajitghosh-161B22?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building • Learning • Experimenting</b>
 </p>
 
 ---
@@ -45,6 +63,7 @@ I'm a passionate developer and builder who enjoys creating applications, experim
 <p align="center">
   <b>⚡ Build. Break. Learn. Repeat.</b>
 </p>
+
 ---
 
 ## 🐍 Contribution Activity
@@ -64,4 +83,10 @@ I'm a passionate developer and builder who enjoys creating applications, experim
       src="https://raw.githubusercontent.com/7soumyajitghosh/7soumyajitghosh/output/github-contribution-grid-snake.svg"
     />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Keep Building.</b>
 </p>
