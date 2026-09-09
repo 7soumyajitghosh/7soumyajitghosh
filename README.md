@@ -16,7 +16,19 @@
 
 ## About
 
-I'm a passionate developer and builder who enjoys creating applications, experimenting with AI, and turning ideas into working products.
+## 👨‍💻 About Me
+
+I'm a developer and builder who enjoys turning ideas into real, usable products.
+
+I work across **Kotlin, TypeScript, C, and Python**, while exploring **AI, Android development, cloud platforms, and modern developer tools**.
+
+I'm especially interested in building AI-powered applications, experimenting with new technologies, and continuously improving the way I design, develop, and ship software.
+
+```text
+💡 BUILD    → Turn ideas into products
+🤖 AI       → Explore intelligent applications
+⚙️ DEVELOP  → Learn by building
+🚀 SHIP     → Make ideas usable
 
 ---
 
