@@ -14,8 +14,6 @@
 
 ---
 
-## About
-
 ## 👨‍💻 About Me
 
 I'm a developer and builder who enjoys turning ideas into real, usable products.
