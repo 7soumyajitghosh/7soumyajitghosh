@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Kotlin+%7C+TypeScript+%7C+Python;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work;Kotlin+%7C+TypeScript+%7C+C+%7C+Python;Exploring+AI%2C+Android+%26+Cloud;Always+learning%2C+always+building." />
 </p>
 
 ---
@@ -20,21 +20,42 @@ I'm a developer and builder who enjoys turning ideas into real, usable products.
 
 I work across **Kotlin, TypeScript, C, and Python**, while exploring **AI, Android development, cloud platforms, and modern developer tools**.
 
-I'm especially interested in building AI-powered applications, experimenting with new technologies, and continuously improving the way I design, develop, and ship software.
+I'm especially interested in building **AI-powered applications**, experimenting with new technologies, and continuously improving the way I design, develop, and ship software.
 
-```text
-💡 BUILD    → Turn ideas into products
-🤖 AI       → Explore intelligent applications
-⚙️ DEVELOP  → Learn by building
-🚀 SHIP     → Make ideas usable
+### 💡 What I Do
+
+| | |
+|---|---|
+| 💡 **BUILD** | Turn ideas into products |
+| 🤖 **AI** | Explore intelligent applications |
+| ⚙️ **DEVELOP** | Learn by building |
+| 🚀 **SHIP** | Make ideas usable |
+
+> Always building. Always learning. 🚀
 
 ---
 
 ## ⚡ Tech Stack
 
+### 💻 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,typescript,python,android,git,github,cloudflare,firebase,supabase&perline=9" />
+  <img src="https://skillicons.dev/icons?i=kotlin,typescript,c,python&perline=4" />
 </p>
+
+### 📱 Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,git,github&perline=3" />
+</p>
+
+### ☁️ Cloud & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,firebase,supabase&perline=3" />
+</p>
+
+### 🤖 AI & Developer Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -43,29 +64,25 @@ I'm especially interested in building AI-powered applications, experimenting wit
   <img src="https://img.shields.io/badge/GLM-5C5CFF?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
 ---
 
 ## 🚀 Featured Project
 
-<p align="center">
-  <a href="https://github.com/7soumyajitghosh/Karishma-Ai-chatbot">
-    <img
-      src="https://img.shields.io/badge/🤖%20Karishma%20AI-View%20Project-161B22?style=for-the-badge"
-      alt="Karishma AI"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  AI-powered virtual assistant with conversational AI,
-  voice interaction and a modern interactive interface.
-</p>
+### 🤖 Karishma AI
+
+**AI-powered virtual assistant**
+
+Conversational AI • Voice Interaction • Modern Interface
+
+<br>
+
+<a href="https://github.com/7soumyajitghosh/Karishma-Ai-chatbot">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -73,18 +90,12 @@ I'm especially interested in building AI-powered applications, experimenting wit
 
 <p align="center">
   <a href="https://github.com/7soumyajitghosh">
-    <img src="https://img.shields.io/badge/GitHub-7soumyajitghosh-161B22?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-7soumyajitghosh-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>Building • Learning • Experimenting</b>
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Build. Break. Learn. Repeat.</b>
+  <b>BUILD • LEARN • EXPERIMENT • SHIP</b>
 </p>
 
 ---
@@ -110,6 +121,8 @@ I'm especially interested in building AI-powered applications, experimenting wit
 
 ---
 
-<p align="center">
-  <b>🚀 Keep Building.</b>
-</p>
+<div align="center">
+
+### ⚡ Build. Break. Learn. Repeat.
+
+</div>
