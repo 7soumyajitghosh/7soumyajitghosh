@@ -13,16 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate snake
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 7soumyajitghosh
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake files
-        uses: EndBug/add-and-commit@v9
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          message: "chore: update contribution snake"
-          add: "output/*.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
