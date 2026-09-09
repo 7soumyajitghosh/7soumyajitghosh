@@ -45,3 +45,23 @@ I'm a passionate developer and builder who enjoys creating applications, experim
 <p align="center">
   <b>⚡ Build. Break. Learn. Repeat.</b>
 </p>
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/7soumyajitghosh/7soumyajitghosh/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/7soumyajitghosh/7soumyajitghosh/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/7soumyajitghosh/7soumyajitghosh/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
